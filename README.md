@@ -6,12 +6,12 @@ A popular hacking forum recently witnessed the leak of an enormous password comp
 # Magnet Link
 To download the torrent file, please copy and paste the following magnet link into your torrent client:
 
-magnet:?xt=urn:btih:4e3915a8ecf6bc174687533d93975b1ff0bde38a
+**magnet:?xt=urn:btih:4e3915a8ecf6bc174687533d93975b1ff0bde38a**
 
 # How to Use
 To access the leaked passwords using the magnet link provided:
 
-Copy the magnet link: **[magnet:?xt=urn:btih:4e3915a8ecf6bc174687533d93975b1ff0bde38a](com)**
+Copy the magnet link: [magnet:?xt=urn:btih:4e3915a8ecf6bc174687533d93975b1ff0bde38a]
 Paste it into your torrent client's "Add URL" or "Add Magnet Link" option.
 # Repository Contents
 rockyou2024.zip: The leaked password file
